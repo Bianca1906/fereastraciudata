@@ -1,0 +1,11 @@
+C:\Users\user6\source\repos\fereastraciudata\fereastraciudata\bin\Debug\fereastraciudata.exe.config
+C:\Users\user6\source\repos\fereastraciudata\fereastraciudata\bin\Debug\fereastraciudata.exe
+C:\Users\user6\source\repos\fereastraciudata\fereastraciudata\bin\Debug\fereastraciudata.pdb
+C:\Users\user6\source\repos\fereastraciudata\fereastraciudata\obj\Debug\fereastraciudata.csprojAssemblyReference.cache
+C:\Users\user6\source\repos\fereastraciudata\fereastraciudata\obj\Debug\fereastraciudata.Form1.resources
+C:\Users\user6\source\repos\fereastraciudata\fereastraciudata\obj\Debug\fereastraciudata.Properties.Resources.resources
+C:\Users\user6\source\repos\fereastraciudata\fereastraciudata\obj\Debug\fereastraciudata.csproj.GenerateResource.cache
+C:\Users\user6\source\repos\fereastraciudata\fereastraciudata\obj\Debug\fereastraciudata.csproj.CoreCompileInputs.cache
+C:\Users\user6\source\repos\fereastraciudata\fereastraciudata\obj\Debug\fereastraciudata.exe
+C:\Users\user6\source\repos\fereastraciudata\fereastraciudata\obj\Debug\fereastraciudata.pdb
+C:\Users\user6\source\repos\fereastraciudata\fereastraciudata\obj\Debug\fereastraciudata.Form2.resources
